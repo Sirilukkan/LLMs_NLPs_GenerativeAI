@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LLMs_NLPs_GenerativeAI
 =======
 
