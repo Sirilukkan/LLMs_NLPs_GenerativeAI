@@ -14,7 +14,7 @@ LLMs are advanced models based on supervised learning, pretrained on vast amount
 ## 🤖 More About ChatGPT, OpenAI, and Langchain
 You might already be familiar with ChatGPT, a web application that utilizes LLMs via OpenAI's API. However, since the knowledge of the `gpt-3.5-turbo` model is limited to data up until January 2022, we need a framework to connect to current external sources. That's where Langchain comes in!
 
-![alt text](travel_plan.png)
+![alt text](Building_app.png)
 
 ## 🚀 How to Run This Project
 Follow these steps to set up and run the Travel Plan Generator:
