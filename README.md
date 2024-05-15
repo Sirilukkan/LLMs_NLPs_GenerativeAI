@@ -28,5 +28,3 @@ Feel free to explore the projects in this repository to see the applications of 
 
 Happy coding!
 
-
->>>>>>> f60a85d (LLM commit)
