@@ -1,0 +1,4 @@
+# All version of library used for this work
+python==3.9.13
+openai==1.25.1
+langchain==0.1.16
